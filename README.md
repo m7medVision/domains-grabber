@@ -1,5 +1,7 @@
 # Domains grabber
 
+This tool was rewritten from Python, the Go language. The original file is in this [here](https://github.com/yehack/Domains-grabber). Thank you ye_hack.
+
 <img src="https://files.catbox.moe/lk5b69.gif" data-canonical-src="" style="max-width:100%;">
 
 ## Usage
