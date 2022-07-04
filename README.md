@@ -1,6 +1,6 @@
 # Domains grabber
 
-This tool was rewritten from Python, the Go language. The original repo is in [here](https://github.com/yehack/Domains-grabber). Thank you [ye_hack](https://github.com/yehack).
+This tool was rewritten from Python to Go language. The original repo is in [here](https://github.com/yehack/Domains-grabber). Thank you [ye_hack](https://github.com/yehack).
 
 <img src="https://files.catbox.moe/lk5b69.gif" data-canonical-src="" style="max-width:100%;">
 
