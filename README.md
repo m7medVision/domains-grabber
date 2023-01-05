@@ -1,10 +1,15 @@
+<center>
 # Domains grabber
+</center>
 
-This tool was rewritten from Python to Go language. The original repo is in [here](https://github.com/yehack/Domains-grabber). Thank you [ye_hack](https://github.com/yehack).
+<p align="center">
+This tool was originally written in Python by ye_hack and was later rewritten in Go language. The original repository can be found [here](https://github.com/yehack/Domains-grabber). Thank you [ye_hack](https://github.com/yehack) for your contribution.
+</p>
 
-<img src="https://files.catbox.moe/lk5b69.gif" data-canonical-src="" style="max-width:100%;">
+<img src="https://files.catbox.moe/lk5b69.gif" data-canonical-src="" style="max-width:100%;" align="center">
 
 ## Usage
+To use this tool, simply run it and provide the path to a text file containing a list of URLs as input. The tool will then process the URLs and perform its intended function.
 
 ## Example
 
