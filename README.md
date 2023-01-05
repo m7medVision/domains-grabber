@@ -1,9 +1,9 @@
 <p align="center">
-# Domains grabber
+Domains grabber
 </p>
 
 <p align="center">
-This tool was originally written in Python by ye_hack and was later rewritten in Go language. The original repository can be found <a href="https://github.com/yehack/Domains-grabber">ye_hack</a>. Thank you ye_hackfor your contribution.
+This tool was originally written in Python by ye_hack and was later rewritten in Go language. The original repository can be found <a href="https://github.com/yehack/Domains-grabber">ye_hack</a>. Thank you ye_hack for your contribution.
 </p>
 
 <img src="https://files.catbox.moe/lk5b69.gif" data-canonical-src="" style="max-width:100%;" align="center">
